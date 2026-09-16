@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.Shell.ServiceHostBuilder.dll",
+  "latest": "2155879450-3EFED03FE7EB5975F54B58EF72F80962-1",
+  "builds": [
+    {
+      "key": "2155879450-3EFED03FE7EB5975F54B58EF72F80962-1",
+      "timestamp": "2155879450",
+      "pdb_guid": "3EFED03FE7EB5975F54B58EF72F80962",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2155879450-3EFED03FE7EB5975F54B58EF72F80962-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
